@@ -88,6 +88,27 @@ Meu objetivo é conquistar uma oportunidade de estágio onde eu possa aprender c
 </p>
 
 ---
+## 🤝 Projetos Colaborativos
+
+### 📚 Biblioteca Java
+Projeto acadêmico desenvolvido em equipe utilizando Java.
+
+🔗 https://github.com/luizcod/biblioteca-java
+
+---
+
+### 🌐 CJR G2 Frontend
+Desenvolvimento colaborativo utilizando Next.js e TypeScript.
+
+🔗 https://github.com/b-tmgarcia/cjr-g2-frontend
+
+---
+
+### ⚙️ CJR G2 Backend
+Desenvolvimento colaborativo utilizando NestJS e Prisma.
+
+🔗 https://github.com/b-tmgarcia/cjr-g2-backend
+---
 
 # 📌 Projetos em destaque
 
